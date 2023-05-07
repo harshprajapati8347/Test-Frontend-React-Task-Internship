@@ -21,6 +21,16 @@ A proper UI so that we know you have a good understanding of UI/UX. Doesn’t ne
 
 ```
 
+## Screenshots
+
+[Video Recording](https://www.awesomescreenshot.com/video/17169597?key=737e470f1c412cbd8a248c3b3a45e430)
+
+![laptop](./src/assets/laptop.png)
+
+![mobile](./src/assets/mob.png)
+
+![tablet](./src/assets/tab.png)
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install the dependencies.
@@ -30,6 +40,7 @@ npm install
 ```
 
 ## Usage
+
 ```bash
 npm start
 ```
